@@ -1,3 +1,5 @@
+This NextJS Project is from Dea Afrizal Youtube Channel (Tutorial NEXT JS 13 App Router Untuk Manusia :) | https://youtu.be/WyTIjLegirE?si=pL3cG9aaGDjf9nry)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
